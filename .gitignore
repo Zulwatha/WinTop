@@ -1,0 +1,37 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Dotnet-specific
+*.dll
+*.exe
+*.pdb
+
+# Logs
+*.log
+
+# Publish output
+publish/
+out/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Others
+*.db
+*.cache
+*.vs/
+
+# Rider or Resharper
+_ReSharper*/
