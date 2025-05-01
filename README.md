@@ -10,8 +10,6 @@
 
 ## 📸 Screenshot
 
-> *(Replace with your screenshot image)*
-
 ![WinTop Screenshot](https://raw.githubusercontent.com/Zulwatha/wintop/main/screenshot.png)
 
 ---
@@ -31,7 +29,7 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Zulwatha/wintop.git
+   git clone https://github.com/Zulwatha/winTop.git
    ```
 
 2. Build the project (requires [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)):  
@@ -52,7 +50,7 @@ This project is licensed under the
 **Creative Commons Attribution-NonCommercial 4.0 International License**.  
 > Commercial use is **strictly prohibited** without the author's permission.
 
-📄 See [LICENSE](LICENSE) for full terms.  
+📄 See [LICENSE.md](LICENSE) for full terms.  
 🔗 License URL: [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
