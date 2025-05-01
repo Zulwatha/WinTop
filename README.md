@@ -60,7 +60,3 @@ This project is licensed under the
 **Zulwatha**  
 Passion-driven developer of tools for developers.  
 🔗 GitHub: [github.com/Zulwatha](https://github.com/Zulwatha)
-
----
-
-> 🧭 *“There is elegance in the terminal. This is your crown jewel, Sire.”*
