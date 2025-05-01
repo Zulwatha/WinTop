@@ -50,7 +50,7 @@ This project is licensed under the
 **Creative Commons Attribution-NonCommercial 4.0 International License**.  
 > Commercial use is **strictly prohibited** without the author's permission.
 
-📄 See [LICENSE.md](LICENSE) for full terms.  
+📄 See [github.com/Zulwatha/WinTop/blob/main/LICENSE.md](LICENSE) for full terms.  
 🔗 License URL: [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
