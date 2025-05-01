@@ -1,4 +1,4 @@
-﻿# WinTop
+﻿﻿# WinTop
 
 > ⚡ Real-time system monitor for Windows. Clean, fast, terminal-based — built to replace Task Manager in your command-line workflow.
 
